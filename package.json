@@ -12,7 +12,6 @@
     "type": "git",
     "url": "git@github.com:StreamMeDev/parse-message.git"
   },
-  "license": "ISC",
   "devDependencies": {
     "happiness": "^10.0.2",
     "mocha": "^5.1.1",
