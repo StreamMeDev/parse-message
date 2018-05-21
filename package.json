@@ -6,7 +6,12 @@
   "scripts": {
     "test": "mocha && happiness"
   },
-  "author": "",
+  "author": "StreamMe",
+  "license": "ICS",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:StreamMeDev/parse-message.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "happiness": "^10.0.2",
