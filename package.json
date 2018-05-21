@@ -1,0 +1,19 @@
+{
+  "name": "parse-message",
+  "version": "1.0.0",
+  "description": "StreamMe Chat Message Parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha && happiness"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "happiness": "^10.0.2",
+    "mocha": "^5.1.1",
+    "nock": "^9.2.5"
+  },
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
