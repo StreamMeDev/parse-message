@@ -11,7 +11,7 @@ To initialize it, you need a room ID, which can be created with the syntax of
 After that, you can set it up with something similar to below:
 
 ```
-const getParser = require('@Streamme-dev/parse-message');
+const getParser = require('@streammedev/parse-message');
 
 getParser(roomId, function (err, parseMessage) {  
   // The data passed is a message from the web socket without the nameSpace and  ResultType
