@@ -1,6 +1,6 @@
 {
   "name": "@streammedev/parse-message",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "StreamMe Chat Message Parser",
   "main": "index.js",
   "scripts": {
